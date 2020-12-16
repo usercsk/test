@@ -1,0 +1,44 @@
+Expression of Interest to Teach Courses in Academic Year 2020-21  Even Semester - CSE:
+-----------------------------------------------------------------------------------------------------------------
+1. Select a platform on which you wish to compete in global challenges and showcase your consistent practice.Required to answer.Multiple choice.Immersive Reader
+Most of the platforms are multi-discipline platforms with challenges in various technologies. I recommend faculty to go through their websites prior to choosing one. 
+
+CodeChef Long challenges & cookOffs - https://www.codechef.com/
+HackerEarth monthly Circuits & recruitment challenges - https://www.hackerearth.com/
+Leetcode weekly & bi-weekly contests - https://leetcode.com/
+Kaggle challenges - https://www.kaggle.com/competitions
+Hackthebox challenges - https://www.hackthebox.eu/
+Rootme challenges - https://www.root-me.org/en/Challenges/
+Topcoder challenges - https://www.topcoder.com/challenges
+Techgig challenges - https://www.techgig.com/
+Hackerone Hacking challenges - https://www.hackerone.com/
+uxhack.co weekly challenges - https://uxhack.co/
+codingame practice & challenges - https://www.codingame.com/home
+codeforces gym, practice & contests - https://codeforces.com/
+Sphere Online Judge problems, challenges and contests - https://www.spoj.com/
+--------------------------------------------------------------------
+13.Select a tool/technology based learning that you wish to undertake and thus be able to teach the same to the students as part of placement training to either Y17, Y18 or Y19 students. Only select those which you are NOT currently associated with.Required to answer.Multiple choice.Immersive Reader
+Java Full Stack Development with Spring, Hibernate & Microservices
+Python Full Stack Development with Flask and Django
+Android Application Development with Java/Kotlin
+Flutter based mobile application development
+Swift programming for iOS application Development
+Functional programming using Java & Haskell
+AWS Certified Solutions Architect
+Google Cloud Platform Associate Cloud Engineer
+Certified Kubernetes Certification
+Professional Scrum Master
+Certified Blueprism Developer
+Oracle Certified Associate, Java SE 8 Programmer
+Oracle Certified Professional, MySQL 8.0 Database Administrator Certification
+MongoDB certified Developer Associate
+CodeChef Certified Data Structure & Algorithms Programme
+Certified Ethical Hacker - Master
+CompTia+ Security Expert
+Salesforce Administrator & Developer Certification
+ServiceNow Administrator & Developer Certification
+Mean Stack Web Development with React
+CCNA Certification
+Cisco Certified CyberOps Associate Certification
+Cisco Certified DevNet Associate Certification
+
